@@ -15,7 +15,9 @@
     "@remix-run/serve": "*",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@fingerprintjs/fingerprintjs": "^4.2.1",
+    "ua-parser-js": "^1.0.37"
   },
   "devDependencies": {
     "@remix-run/dev": "*",
